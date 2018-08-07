@@ -1,0 +1,500 @@
+drug,location,sold_on,quantity_purchased,quantity_sold,keep
+MAGALDRATE ,13,10-08-18,33,4,No 
+Ibuprofen ,12,23-04-18,137,1,No 
+Glucagon ,1,19-09-18,99,6,No 
+SODIUM CHLORIDE ,10,26-01-18,10,6,Yes
+Acyclovir ,8,22-09-16,25,5,No 
+Ciprofloxacin ,7,16-07-17,49,3,No 
+Dantrolene ,6,11-01-18,69,9,No 
+Ciprofloxacin ,10,29-11-18,61,10,No 
+Nitazoxanide ,12,27-03-17,68,7,No 
+Trimethoprim ,8,12-01-16,11,9,Yes
+Glucagon ,6,02-09-16,23,5,No 
+MAGALDRATE ,8,16-03-19,35,8,No 
+Aspirin ,7,06-09-17,82,1,No 
+Panadol ,7,07-01-18,54,8,No 
+Aspirin ,8,03-11-16,133,2,No 
+Aminophylline ,9,02-02-19,46,5,No 
+Phenothiazines ,4,16-09-16,37,7,No 
+Estrogens ,11,23-05-16,124,5,No 
+Acyclovir ,1,10-03-16,113,10,No 
+Ibuprofen ,1,17-07-17,39,6,No 
+MAGALDRATE,7,06-02-16,106,9,No 
+Glucagon ,2,11-08-16,113,8,No 
+FLUOXETINE ,11,15-07-18,97,3,No 
+Nitazoxanide ,12,14-10-16,130,1,No 
+PACLITAXEL ,5,23-01-18,54,8,No 
+PACLITAXEL ,1,16-06-16,94,8,No 
+DIPYRIDAMOLE ,6,16-08-16,40,5,No 
+Panadol ,8,01-09-16,89,1,No 
+Antihistamines ,4,23-07-17,92,5,No 
+FLUOXETINE ,10,18-10-17,103,10,No 
+METRONIDAZOLE ,2,11-06-18,21,5,No 
+RANITIDINE ,10,15-07-18,71,3,No 
+Aqueous gentian violet ,1,28-10-18,35,3,No 
+Ciprofloxacin ,6,12-01-19,63,9,No 
+Acetaminophen ,12,07-02-19,16,4,No 
+MAGALDRATE ,9,28-03-19,137,6,No 
+Nitazoxanide ,10,21-03-16,34,3,No 
+Keratolytics ,6,16-01-18,43,6,No 
+Adrenaline ,2,03-10-17,24,6,No 
+Trimethoprim ,5,01-03-18,39,5,No 
+Methotrexate ,10,14-03-19,31,4,No 
+Aminophylline ,8,13-03-17,125,5,No 
+Chloramphenicol ,1,05-06-17,106,9,No 
+FLUOXETINE ,5,06-02-17,26,4,No 
+RANITIDINE ,11,24-08-17,69,8,No 
+Methotrexate ,3,20-02-18,89,10,No 
+PACLITAXEL ,12,31-01-18,66,10,No 
+Panadol ,2,17-12-16,29,1,No 
+Acyclovir ,11,12-01-17,54,1,No 
+Glucagon ,7,04-01-16,28,8,No 
+METRONIDAZOLE ,2,05-08-18,46,4,No 
+Adrenaline ,9,17-01-19,20,7,No 
+MAGALDRATE ,8,19-05-17,99,7,No 
+Hydroxychloroquine ,6,26-08-17,138,5,No 
+Furazolidone ,9,30-11-18,92,10,No 
+Trimethoprim ,7,10-08-18,21,10,No 
+Adrenaline ,7,04-04-18,90,10,No 
+FLUOXETINE ,5,14-12-16,110,5,No 
+Nitazoxanide ,3,09-06-18,53,2,No 
+Panadol ,7,23-02-16,121,5,No 
+Panadol ,1,01-10-16,101,10,No 
+RANITIDINE ,5,04-03-18,118,8,No 
+Dantrolene ,2,23-04-18,36,1,No 
+SODIUM CHLORIDE ,1,05-02-19,104,6,No 
+Ciprofloxacin ,11,21-04-18,73,1,No 
+Furazolidone ,7,11-08-18,116,8,No 
+Tetracycline ,10,19-04-17,69,3,No 
+MAGALDRATE,1,01-03-18,64,5,No 
+Nitazoxanide ,4,05-08-18,91,6,No 
+FLUOXETINE ,1,01-08-18,103,10,No 
+Tetracycline ,8,10-06-18,131,6,No 
+FLUOXETINE ,3,10-10-18,76,5,No 
+Dantrolene ,12,06-11-17,96,3,No 
+MAGALDRATE,6,28-11-17,76,10,No 
+Furazolidone ,2,06-09-18,99,9,No 
+Acyclovir ,10,25-02-19,139,3,No 
+Aminophylline ,8,08-02-19,120,5,No 
+Methotrexate ,10,16-01-18,11,6,Yes
+Scopolamine ,2,19-02-18,64,4,No 
+Aqueous gentian violet ,4,05-12-16,121,4,No 
+Vitamin K ,10,22-03-17,26,9,No 
+Dantrolene ,2,12-03-19,123,6,No 
+MAGALDRATE,6,30-07-17,48,6,No 
+Trimethoprim ,2,17-02-19,77,8,No 
+Aminophylline ,2,03-05-19,31,1,No 
+SODIUM CHLORIDE ,13,01-01-17,75,10,No 
+MAGALDRATE,13,08-04-19,133,10,No 
+MAGALDRATE,13,10-07-16,33,3,No 
+Acetaminophen ,1,14-12-18,67,9,No 
+Aminophylline ,5,27-09-16,22,2,No 
+MAGALDRATE,7,07-10-18,67,1,No 
+METRONIDAZOLE ,10,30-06-17,122,5,No 
+Acetaminophen ,4,08-05-18,139,7,No 
+Scopolamine ,3,19-07-16,39,4,No 
+Dantrolene ,6,18-02-16,131,9,No 
+Nitazoxanide ,3,24-03-16,121,3,No 
+Acyclovir ,3,21-08-17,100,7,No 
+Keratolytics ,7,10-04-19,20,3,No 
+ciprofloxacin ,5,20-03-17,18,5,No 
+Adrenaline ,11,19-06-16,96,6,No 
+Panadol ,7,24-07-16,24,6,No 
+Adrenaline ,2,21-11-17,85,7,No 
+ciprofloxacin ,11,30-04-16,39,8,No 
+Aspirin ,6,22-04-19,57,9,No 
+Nitazoxanide ,8,14-09-18,131,4,No 
+Trimethoprim ,9,30-09-17,78,3,No 
+Furazolidone ,2,05-08-16,78,8,No 
+MAGALDRATE,10,20-07-16,109,6,No 
+MAGALDRATE,2,17-09-18,97,8,No 
+Antihistamines ,6,11-12-18,19,6,No 
+Estrogens ,13,09-11-17,115,8,No 
+Acetaminophen ,1,14-02-19,52,1,No 
+METRONIDAZOLE ,10,13-11-18,12,2,No 
+Nitazoxanide ,6,23-08-18,24,7,No 
+Keratolytics ,10,20-02-17,30,9,No 
+Aspirin ,12,01-04-17,121,1,No 
+Hydroxychloroquine ,8,09-12-17,58,3,No 
+Hydroxychloroquine ,9,07-04-19,133,9,No 
+Paracetamol GV 500 ,1,15-11-17,128,9,No 
+Phenothiazines ,5,23-09-17,78,9,No 
+MAGALDRATE ,8,18-02-18,62,8,No 
+RANITIDINE ,10,07-03-17,95,6,No 
+MAGALDRATE ,5,06-05-18,51,7,No 
+Aminophylline ,13,11-12-16,97,3,No 
+Ciprofloxacin ,5,25-08-16,119,1,No 
+MAGALDRATE ,2,29-01-17,23,5,No 
+Ciprofloxacin ,9,04-05-18,29,2,No 
+MAGALDRATE ,10,22-01-16,88,1,No 
+MAGALDRATE ,11,25-01-19,50,3,No 
+Estrogens ,2,28-02-19,57,3,No 
+FLUOXETINE ,13,28-03-19,33,3,No 
+MAGALDRATE,6,23-06-16,132,9,No 
+DIPYRIDAMOLE ,3,10-04-18,48,7,No 
+ciprofloxacin ,10,20-03-16,78,6,No 
+ciprofloxacin ,4,20-10-16,64,3,No 
+Paracetamol GV 500 ,12,30-01-19,29,1,No 
+Paracetamol GV 500 ,7,20-02-16,62,3,No 
+DIPYRIDAMOLE ,9,14-08-18,94,9,No 
+Furazolidone ,1,24-06-16,73,7,No 
+Aqueous gentian violet ,13,08-02-17,114,6,No 
+RANITIDINE ,1,26-12-16,38,4,No 
+Aminophylline ,3,14-12-18,17,6,No 
+Aspirin ,6,02-07-16,107,6,No 
+Tetracycline ,8,28-05-17,128,3,No 
+METRONIDAZOLE ,7,10-07-16,58,9,No 
+SODIUM CHLORIDE ,7,17-04-18,16,8,Yes
+Trimethoprim ,5,21-02-16,25,6,No 
+ciprofloxacin ,6,20-02-16,85,6,No 
+Paracetamol GV 500 ,13,10-10-16,51,7,No 
+Estrogens ,6,16-09-17,121,4,No 
+Aqueous gentian violet ,7,07-01-16,13,2,No 
+Glucagon ,4,23-07-17,48,10,No 
+Hydroxychloroquine ,5,19-06-16,110,3,No 
+Aminophylline ,9,11-01-17,57,4,No 
+Dantrolene ,6,18-11-16,49,9,No 
+Chloramphenicol ,10,11-06-16,39,7,No 
+Nitazoxanide ,3,03-07-16,27,2,No 
+Ciprofloxacin ,3,29-10-16,133,2,No 
+Scopolamine ,6,26-02-17,132,2,No 
+MAGALDRATE ,1,19-02-18,123,6,No 
+Vitamin K ,2,17-11-18,77,8,No 
+Furazolidone ,7,16-02-19,97,4,No 
+Panadol ,10,09-05-17,105,3,No 
+Keratolytics ,5,23-11-18,56,3,No 
+ciprofloxacin ,2,01-01-16,34,5,No 
+Trimethoprim ,7,23-11-18,139,8,No
+FLUOXETINE ,10,14-09-16,39,2,No 
+Acyclovir ,6,18-06-16,133,7,No 
+Chloramphenicol ,6,05-04-18,42,4,No 
+Antihistamines ,5,20-04-19,74,3,No 
+Aspirin ,13,03-02-19,56,10,No 
+Scopolamine ,11,26-05-16,74,1,No 
+RANITIDINE ,6,13-09-18,80,4,No 
+Methotrexate ,4,20-08-18,14,6,No 
+Trimethoprim ,7,27-10-17,88,2,No 
+Hydroxychloroquine ,5,04-05-19,58,9,No 
+Glucagon ,9,15-04-18,119,6,No 
+Paracetamol GV 500 ,11,13-03-19,104,4,No 
+Estrogens ,8,23-04-19,103,5,No 
+ciprofloxacin ,7,16-03-19,22,2,No 
+Adrenaline ,6,18-05-16,44,9,No 
+Ciprofloxacin ,13,08-05-18,39,9,No 
+Vitamin K ,12,21-12-18,60,6,No 
+Glucagon ,4,29-06-17,54,9,No 
+Scopolamine ,13,09-10-16,89,10,No 
+RANITIDINE ,9,22-05-17,12,5,No 
+Vitamin K ,11,01-01-16,28,5,No 
+Trimethoprim ,3,09-10-16,53,5,No 
+Ciprofloxacin ,7,30-03-18,69,5,No 
+Chloramphenicol ,9,30-01-18,44,3,No 
+SODIUM CHLORIDE ,9,28-10-18,70,6,No 
+RANITIDINE ,12,13-03-18,135,7,No 
+Trimethoprim ,5,13-05-17,27,4,No 
+Antihistamines ,9,11-04-17,101,3,No 
+Aspirin ,13,13-06-17,35,6,No 
+Adrenaline ,1,23-08-16,83,2,No 
+SODIUM CHLORIDE ,2,14-06-16,118,7,No 
+MAGALDRATE ,9,13-08-18,41,4,No 
+Phenothiazines ,13,14-01-18,102,2,No 
+Estrogens ,12,15-12-17,55,10,No 
+Keratolytics ,13,04-02-18,77,1,No 
+Chloramphenicol ,3,19-05-17,68,2,No 
+Antihistamines ,2,27-07-18,25,7,No 
+Panadol ,9,18-12-16,38,10,No 
+RANITIDINE ,6,31-08-18,36,10,No 
+RANITIDINE ,10,06-09-16,87,4,No 
+Trimethoprim ,8,27-06-18,111,4,No 
+Tetracycline ,10,17-06-17,41,3,No 
+RANITIDINE ,1,26-10-16,63,1,No 
+Phenothiazines ,13,15-06-16,33,2,No 
+Dantrolene ,6,01-02-17,36,1,No 
+Ciprofloxacin ,13,28-04-19,121,10,No 
+Aqueous gentian violet ,3,15-11-18,102,6,No 
+Trimethoprim ,5,25-03-18,124,7,No 
+Dantrolene ,13,18-10-17,103,5,No 
+Antihistamines ,3,16-02-18,112,9,No 
+Paracetamol GV 500 ,6,11-03-17,78,4,No 
+Keratolytics ,12,19-08-16,53,9,No 
+Adrenaline ,3,03-03-17,103,4,No 
+Ibuprofen ,10,24-10-18,94,7,No 
+Paracetamol GV 500 ,10,01-02-16,49,8,No 
+PACLITAXEL ,5,16-12-18,115,7,No 
+Aqueous gentian violet ,13,21-01-17,66,3,No 
+Phenothiazines ,10,21-03-18,119,3,No 
+DIPYRIDAMOLE ,10,14-03-16,123,6,No 
+ciprofloxacin ,7,26-02-17,107,3,No 
+Dantrolene ,5,21-02-16,123,7,No 
+Phenothiazines ,12,22-10-17,93,4,No 
+MAGALDRATE ,5,21-12-18,57,2,No 
+Aminophylline ,9,06-08-17,139,3,No 
+MAGALDRATE ,12,19-09-16,34,10,No 
+Acyclovir ,9,29-04-18,10,10,Yes
+Acetaminophen ,1,01-03-16,132,3,No 
+Chloramphenicol ,3,07-06-17,80,2,No 
+SODIUM CHLORIDE ,8,08-03-18,125,2,No 
+Panadol ,7,25-12-18,66,2,No 
+ciprofloxacin ,5,18-10-17,71,5,No 
+RANITIDINE ,4,13-10-16,86,1,No 
+Acetaminophen ,6,18-06-16,45,10,No 
+Nitazoxanide ,7,08-12-16,97,10,No 
+Chloramphenicol ,6,18-07-17,87,3,No 
+Chloramphenicol ,5,08-06-17,46,3,No 
+Keratolytics ,11,09-02-17,113,5,No 
+Furazolidone ,12,04-09-18,63,2,No 
+Hydroxychloroquine ,7,10-07-18,110,1,No 
+Chloramphenicol ,5,20-05-17,15,9,Yes
+Glucagon ,7,08-08-18,102,6,No 
+Acyclovir ,9,25-03-17,117,6,No 
+Aqueous gentian violet ,2,01-05-16,11,6,Yes
+Glucagon ,2,22-03-16,31,4,No 
+Furazolidone ,2,07-02-18,71,1,No 
+Adrenaline ,10,29-07-17,61,3,No 
+Glucagon ,6,13-10-18,41,4,No 
+Aspirin ,5,27-03-17,138,3,No 
+Furazolidone ,4,14-06-16,123,9,No 
+PACLITAXEL ,4,05-03-16,78,10,No 
+MAGALDRATE ,2,14-02-19,49,4,No 
+Panadol ,1,04-06-18,48,7,No 
+Tetracycline ,3,15-11-18,104,2,No 
+Antihistamines ,2,04-12-16,94,7,No 
+Dantrolene ,10,18-07-16,99,8,No 
+Adrenaline ,1,14-04-18,136,7,No 
+Adrenaline ,10,28-11-17,82,6,No 
+RANITIDINE ,11,12-12-17,77,8,No 
+Glucagon ,7,16-08-18,49,6,No 
+RANITIDINE ,4,31-10-17,36,7,No 
+Ibuprofen ,11,05-04-16,29,4,No 
+Methotrexate ,10,17-01-19,31,5,No 
+Ciprofloxacin ,1,24-09-18,90,8,No 
+MAGALDRATE ,4,19-09-16,11,8,Yes
+Nitazoxanide ,1,25-01-18,61,1,No 
+Furazolidone ,7,21-08-18,115,6,No 
+MAGALDRATE ,10,27-06-18,103,5,No 
+Aminophylline ,5,18-12-18,30,5,No 
+Glucagon ,6,03-01-18,12,5,No 
+Aqueous gentian violet ,3,24-10-18,16,4,No 
+Antihistamines ,3,28-05-17,112,4,No 
+Ibuprofen ,11,16-10-17,119,4,No 
+Glucagon ,3,13-03-17,77,7,No 
+Panadol ,8,16-10-18,14,3,No 
+Estrogens ,13,23-07-16,18,5,No 
+Adrenaline ,2,03-05-18,70,8,No 
+Antihistamines ,5,08-06-18,98,1,No 
+Nitazoxanide ,13,26-08-17,96,5,No 
+Antihistamines ,4,10-11-17,85,10,No 
+Adrenaline ,10,01-08-18,74,5,No 
+Nitazoxanide ,8,15-09-16,58,9,No 
+Aspirin ,12,04-11-18,73,9,No 
+Nitazoxanide ,4,24-03-16,103,8,No 
+RANITIDINE ,11,11-06-18,27,10,No 
+Tetracycline ,8,20-04-16,97,6,No 
+RANITIDINE ,2,11-01-16,139,4,No 
+Hydroxychloroquine ,4,16-04-17,128,9,No 
+Acyclovir ,5,19-08-18,89,10,No 
+,10,27-03-18,116,7,No 
+Nitazoxanide ,10,08-02-17,122,2,No 
+Acyclovir ,8,15-01-16,122,8,No 
+Adrenaline ,11,07-03-18,22,6,No 
+Phenothiazines ,10,21-03-16,108,4,No 
+Glucagon ,10,21-10-17,43,7,No 
+Acyclovir ,7,30-03-17,117,7,No 
+Antihistamines ,1,11-04-18,79,7,No 
+DIPYRIDAMOLE ,1,08-10-18,63,10,No 
+RANITIDINE ,11,02-06-18,83,6,No 
+Nitazoxanide ,1,27-02-17,62,4,No 
+Hydroxychloroquine ,3,04-04-19,81,8,No 
+Glucagon ,12,02-05-16,120,10,No 
+Vitamin K ,12,13-04-16,82,7,No 
+Estrogens ,10,15-06-18,114,10,No 
+Phenothiazines ,12,14-10-18,125,9,No 
+Phenothiazines ,10,29-05-17,136,2,No 
+Panadol ,13,20-10-16,18,5,No 
+Estrogens ,5,18-07-18,61,3,No 
+Nitazoxanide ,9,06-08-18,30,3,No 
+FLUOXETINE ,5,23-02-16,62,7,No 
+DIPYRIDAMOLE ,6,25-10-16,47,7,No 
+RANITIDINE ,3,12-01-17,37,2,No 
+Keratolytics ,7,28-05-17,102,3,No 
+SODIUM CHLORIDE ,9,30-11-16,10,7,Yes
+Ibuprofen ,8,26-08-16,31,1,No 
+FLUOXETINE ,5,02-03-18,20,1,No 
+Aminophylline ,13,28-05-18,119,5,No 
+Phenothiazines ,11,17-10-18,88,8,No 
+METRONIDAZOLE ,5,14-01-18,91,9,No 
+Chloramphenicol ,9,09-01-16,26,1,No 
+PACLITAXEL ,9,23-08-17,71,3,No 
+ciprofloxacin ,6,24-04-16,120,5,No 
+Trimethoprim ,10,18-07-18,71,10,No 
+Adrenaline ,1,06-04-18,15,4,No 
+ciprofloxacin ,6,21-03-16,127,6,No 
+Tetracycline ,8,01-10-16,48,7,No 
+FLUOXETINE ,3,12-02-19,88,4,No 
+Antihistamines ,1,18-08-16,87,9,No 
+DIPYRIDAMOLE ,7,23-01-17,139,3,No 
+MAGALDRATE ,7,11-03-19,49,5,No 
+RANITIDINE ,2,17-09-18,114,4,No 
+Aspirin ,3,06-06-16,65,10,No 
+Methotrexate ,11,03-01-16,66,9,No 
+Trimethoprim ,2,24-01-17,93,9,No 
+Hydroxychloroquine ,13,02-02-16,111,9,No 
+DIPYRIDAMOLE ,5,03-07-18,15,2,No 
+Paracetamol GV 500 ,1,07-05-17,45,3,No 
+Phenothiazines ,11,13-06-16,38,1,No 
+Adrenaline ,1,18-06-16,65,5,No 
+Ibuprofen ,2,25-11-18,18,1,No 
+Furazolidone ,10,07-10-16,112,1,No 
+Tetracycline ,13,17-01-16,42,10,No 
+Trimethoprim ,6,18-08-16,111,2,No 
+Acetaminophen ,13,12-02-18,35,3,No 
+Adrenaline ,13,30-01-19,120,5,No 
+Vitamin K ,3,17-02-16,75,1,No 
+Aminophylline ,1,14-12-18,115,8,No 
+Aminophylline ,8,14-01-18,139,5,No 
+SODIUM CHLORIDE ,6,20-06-16,22,5,No 
+FLUOXETINE ,13,04-01-17,95,10,No 
+ciprofloxacin ,9,02-07-16,53,3,No 
+Nitazoxanide ,13,06-02-18,106,10,No 
+Aminophylline ,5,08-05-17,112,4,No 
+MAGALDRATE ,13,31-10-16,27,7,No 
+Estrogens ,9,18-06-18,37,4,No 
+Phenothiazines ,8,01-01-16,118,1,No 
+Ibuprofen ,5,18-08-17,99,9,No 
+Paracetamol GV 500 ,13,06-08-18,131,8,No 
+PACLITAXEL ,12,23-12-18,56,3,No 
+ciprofloxacin ,13,08-10-17,103,8,No 
+Nitazoxanide ,11,18-03-19,111,10,No 
+FLUOXETINE ,12,30-12-17,50,7,No 
+Acetaminophen ,13,05-03-19,60,6,No 
+SODIUM CHLORIDE ,3,06-07-18,114,8,No 
+PACLITAXEL ,6,09-02-16,49,4,No 
+Dantrolene ,8,28-04-19,127,8,No 
+Nitazoxanide ,12,25-03-17,87,9,No 
+SODIUM CHLORIDE ,2,24-12-18,119,3,No 
+Adrenaline ,5,07-10-16,95,2,No 
+Paracetamol GV 500 ,9,24-04-19,21,7,No 
+MAGALDRATE,11,20-12-16,109,9,No 
+Aminophylline ,13,19-11-16,39,10,No 
+RANITIDINE ,12,04-07-18,60,4,No 
+SODIUM CHLORIDE ,5,05-06-17,38,6,No 
+RANITIDINE ,2,03-05-17,38,2,No 
+Ibuprofen ,13,02-11-17,79,2,No 
+Adrenaline ,5,03-05-17,133,8,No 
+Aspirin ,11,24-10-17,130,9,No 
+Methotrexate ,4,20-07-18,88,8,No 
+Phenothiazines ,1,23-05-16,45,8,No 
+Acetaminophen ,9,23-11-18,59,2,No 
+MAGALDRATE ,9,13-12-18,90,2,No 
+Panadol ,11,19-06-17,22,7,No 
+Dantrolene ,12,30-08-17,76,4,No 
+DIPYRIDAMOLE ,1,15-10-17,60,6,No 
+MAGALDRATE,13,25-01-17,69,4,No 
+Ciprofloxacin ,4,18-03-16,34,1,No 
+Adrenaline ,7,17-12-17,61,10,No 
+MAGALDRATE,5,15-09-16,33,10,No 
+Phenothiazines ,2,08-11-17,40,2,No 
+Trimethoprim ,3,06-06-17,17,6,No 
+Dantrolene ,7,01-08-17,17,4,No 
+DIPYRIDAMOLE ,10,03-04-17,118,5,No 
+Chloramphenicol ,7,18-01-16,57,10,No 
+Adrenaline ,7,25-01-19,137,4,No 
+Ibuprofen ,5,12-05-16,70,9,No 
+Phenothiazines ,7,22-06-17,46,10,No 
+Paracetamol GV 500 ,1,05-03-17,46,9,No 
+Glucagon ,2,26-07-17,57,1,No 
+Nitazoxanide ,2,27-03-18,45,1,No 
+SODIUM CHLORIDE ,8,14-07-18,86,2,No 
+Nitazoxanide ,4,01-06-18,34,4,No 
+Paracetamol GV 500 ,8,27-08-18,130,3,No 
+Nitazoxanide ,8,13-03-17,88,7,No 
+Aspirin ,5,11-02-18,15,3,No 
+Panadol ,13,13-06-16,37,10,No 
+Adrenaline ,12,18-04-18,112,6,No 
+ciprofloxacin ,13,19-08-16,11,9,Yes
+Aqueous gentian violet ,3,12-11-16,73,4,No 
+Tetracycline ,12,13-02-19,120,10,No 
+Phenothiazines ,5,11-12-17,57,9,No 
+Dantrolene ,12,12-05-17,33,9,No 
+Phenothiazines ,4,06-03-19,65,8,No 
+Antihistamines ,9,08-08-18,104,8,No 
+MAGALDRATE ,8,14-03-16,12,8,Yes
+Scopolamine ,12,26-03-16,91,7,No 
+Acetaminophen ,10,23-11-16,61,2,No 
+FLUOXETINE ,1,24-04-16,34,4,No 
+Keratolytics ,5,20-08-16,129,9,No 
+Aminophylline ,9,30-06-16,22,8,No 
+Tetracycline ,12,23-06-16,68,10,No 
+RANITIDINE ,8,10-05-18,79,9,No 
+Acetaminophen ,4,21-03-19,103,2,No 
+Keratolytics ,10,01-08-16,127,4,No 
+SODIUM CHLORIDE ,7,24-04-19,74,3,No 
+METRONIDAZOLE ,7,23-06-17,13,6,No 
+Adrenaline ,6,03-11-18,87,2,No 
+MAGALDRATE ,6,06-03-18,75,2,No 
+Hydroxychloroquine ,13,20-04-18,39,8,No 
+DIPYRIDAMOLE ,10,06-09-16,64,1,No 
+PACLITAXEL ,10,21-05-18,93,3,No 
+PACLITAXEL ,5,05-03-19,138,8,No 
+RANITIDINE ,3,22-09-18,67,7,No 
+RANITIDINE ,3,12-11-18,103,3,No 
+Vitamin K ,6,03-12-16,18,1,No 
+Glucagon ,9,04-07-18,41,1,No 
+RANITIDINE ,6,22-03-19,118,10,No 
+Aspirin ,13,16-04-17,130,2,No 
+Vitamin K ,13,24-01-16,104,7,No 
+Aspirin ,10,02-09-17,112,9,No 
+FLUOXETINE ,1,29-01-19,69,9,No 
+Aspirin ,3,04-05-18,25,7,No 
+DIPYRIDAMOLE ,11,19-05-16,125,2,No 
+METRONIDAZOLE ,7,11-10-17,123,3,No 
+Ciprofloxacin ,9,31-12-16,13,6,No 
+DIPYRIDAMOLE ,6,08-02-17,60,3,No 
+Scopolamine ,1,05-12-16,49,4,No 
+MAGALDRATE ,8,09-11-16,107,10,No 
+SODIUM CHLORIDE ,5,11-03-19,101,9,No 
+RANITIDINE ,2,13-03-19,42,3,No 
+Glucagon ,8,15-08-17,112,9,No 
+Trimethoprim ,1,20-05-18,92,1,No 
+MAGALDRATE ,2,06-02-17,81,5,No 
+Ciprofloxacin ,2,29-11-17,50,4,No 
+Vitamin K ,9,01-10-16,57,4,No 
+Phenothiazines ,4,08-03-19,11,7,Yes
+Hydroxychloroquine ,1,16-12-18,138,4,No 
+Vitamin K ,13,17-08-18,138,6,No 
+Nitazoxanide ,10,30-07-16,31,1,No 
+Paracetamol GV 500 ,9,19-03-16,37,1,No 
+Tetracycline ,1,24-08-17,67,5,No 
+Acetaminophen ,7,14-04-19,63,5,No 
+Ibuprofen ,6,14-02-19,45,9,No 
+Estrogens ,5,29-12-17,131,4,No 
+Panadol ,12,08-08-16,11,9,Yes
+Scopolamine ,13,05-11-16,136,1,No 
+MAGALDRATE ,1,17-08-17,33,9,No 
+RANITIDINE ,6,18-09-17,83,9,No 
+MAGALDRATE ,5,11-07-18,19,4,No 
+Aspirin ,13,30-07-16,43,3,No 
+Dantrolene ,10,22-03-16,85,8,No 
+Phenothiazines ,9,29-11-18,74,10,No 
+Vitamin K ,9,07-03-18,135,10,No 
+Adrenaline ,6,14-06-17,89,10,No 
+Ibuprofen ,2,16-10-17,83,8,No 
+Methotrexate ,9,04-02-19,67,7,No 
+Adrenaline ,10,06-08-16,120,5,No 
+Ibuprofen ,3,12-01-17,127,5,No 
+Nitazoxanide ,4,25-01-17,32,8,No 
+MAGALDRATE,13,21-12-16,45,10,No 
+Ibuprofen ,10,13-01-18,29,2,No 
+SODIUM CHLORIDE ,12,28-08-17,19,10,Yes
+PACLITAXEL ,1,08-01-17,82,10,No 
+Trimethoprim ,7,21-12-18,67,10,No 
+Antihistamines ,5,15-06-16,112,1,No 
+RANITIDINE ,13,22-12-17,91,3,No 
+Estrogens ,9,07-03-18,117,3,No 
+MAGALDRATE ,1,19-08-16,72,10,No 
+DIPYRIDAMOLE ,6,22-07-16,121,4,No 
+Aqueous gentian violet ,3,14-03-17,19,9,No 
+Tetracycline ,10,08-08-17,28,5,No 
+Ibuprofen ,6,23-12-18,71,4,No 
+Ciprofloxacin ,8,01-08-17,119,6,No 
+RANITIDINE ,1,09-05-17,28,8,No 
